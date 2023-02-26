@@ -1,6 +1,7 @@
 # http-web-camera-mediapipe
 _main.py__________________________________________________________________________________________________________
 | from kivy.app import App                                                                                   |
+
 | from kivy.core.window import Window                                                                        |
 | from kivy.uix.label import Label                                                                           |
 | from kivy.uix.button import Button                                                                         |
